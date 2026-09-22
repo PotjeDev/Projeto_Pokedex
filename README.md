@@ -81,13 +81,3 @@ Este projeto está disponível para fins educacionais e de portfólio.
 ## Autor
 
 Desenvolvido como projeto pessoal para demonstrar habilidades em JavaScript, consumo de APIs e desenvolvimento front-end.
-
----
-
-Se quiser, posso também criar uma versão mais premium do README com:
-
-- badge de tecnologias
-- screenshots
-- seção de desafios e aprendizados
-- texto mais profissional para GitHub
-- estrutura com emojis e visual mais atrativo
